@@ -1,4 +1,4 @@
-# Minecraft Clone
+# Minecraft Demo
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](README.en.md)
 [![en](https://img.shields.io/badge/lang-zh--CN-red.svg)](README.md)
 
