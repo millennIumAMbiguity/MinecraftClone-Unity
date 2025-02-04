@@ -1,4 +1,6 @@
 # Minecraft Demo
+[![en](https://img.shields.io/badge/语言-en-blue.svg)](README.en.md)
+[![en](https://img.shields.io/badge/语言-zh--CN-red.svg)](README.md)
 
 **高二时候写的，随便看看就好。停止维护了。**
 
